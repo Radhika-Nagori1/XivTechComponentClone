@@ -1,0 +1,38 @@
+.i{
+    display: flex;
+    padding: 3% 18%;
+    box-sizing: border-box;
+}
+.i-left{
+    flex: 1;
+    box-sizing: border-box;
+    padding-right: 20%;
+}
+.i-right{
+    flex: 1;
+}
+h2{
+    text-align: left;
+    font-size: 350%;
+    font-weight: lighter;
+    line-height: 1.2;
+}
+h3{
+    text-align: left;
+    font-size: 160%;
+    font-weight: lighter;
+    line-height: 1.2;
+}
+img{
+    padding-left: 7%;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+.link{
+    text-decoration: none;
+    font-size: 1.2rem;
+    font-weight: bold;
+    line-height: 1.2;
+    color: black;
+}
